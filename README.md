@@ -1,5 +1,7 @@
-## Good Day, my name is Almalik Abdullah
+## Good Day, my name is Almalik Abdullah, 24 years old data science programmer.
 
+
+### I'm currently working on business money tracking system, extension to POS register money tracking system.
 
 ### History about my coding
 
