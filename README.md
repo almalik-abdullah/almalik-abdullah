@@ -31,6 +31,13 @@ after graduation i got a job with a wholesale business. this business express de
 
 </details>
 
+### How to reach me
+|  |  |
+|-----:|---------------|
+|LinkedIn| Almalik Abdullah Bin Ali Asgar|
+|Email   |                               |
+|Website |                               |
+
 
 <!--
 **almalik-abdullah/almalik-abdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
